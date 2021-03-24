@@ -6,6 +6,6 @@
     "\\src\\components",
     "\\src\\MyComponent"
   ],
-  "SelectedNode": "\\.editorconfig",
+  "SelectedNode": "\\src\\components\\Panel.tsx",
   "PreviewInSolutionExplorer": false
 }
